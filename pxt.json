@@ -1,0 +1,17 @@
+{
+    "name": "BMP180",
+    "version": "1.0.0",
+    "description": "makecode BMP180 数字气压传感器的 micro:bit 软件包（推荐使用BMP280）",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
