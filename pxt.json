@@ -1,7 +1,7 @@
 {
     "name": "BMP180",
     "version": "1.0.0",
-    "description": "makecode BMP180 Êı×ÖÆøÑ¹´«¸ĞÆ÷µÄ micro:bit Èí¼ş°ü£¨ÍÆ¼öÊ¹ÓÃBMP280£©",
+    "description": "makecode BMP180 æ•°å­—æ°”å‹ä¼ æ„Ÿå™¨çš„ micro:bit è½¯ä»¶åŒ…ï¼ˆæ¨èä½¿ç”¨BMP280ï¼‰",
     "license": "MIT",
     "dependencies": {
         "core": "*"
