@@ -27,7 +27,7 @@ https://github.com/microbit-makecode-packages/BMP180_cn
 获取气压（hpa）  
 
 - function temperature()  
-或者温度（℃）
+获取温度（℃）
 
 
 ## 演示
